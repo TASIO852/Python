@@ -1,1 +1,1 @@
-# Repositorio  de estudos em python e suas Libs
+# Repositorio de estudos em python e suas Libs 📚📚
